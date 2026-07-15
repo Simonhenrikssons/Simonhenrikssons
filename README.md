@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--<img width="498" height="243" alt="tumblr_12a951cdfdd193f7fb2f6f13b694a8a2_2fd3d553_400" src="https://github.com/user-attachments/assets/c823cbec-8ff5-49bb-9740-987533ab93c5" />
 
