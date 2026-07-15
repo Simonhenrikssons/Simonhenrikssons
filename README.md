@@ -1,6 +1,7 @@
 
 
-<!--<img width="498" height="243" alt="tumblr_12a951cdfdd193f7fb2f6f13b694a8a2_2fd3d553_400" src="https://github.com/user-attachments/assets/c823cbec-8ff5-49bb-9740-987533ab93c5" />
+<img width="498" height="243" alt="tumblr_12a951cdfdd193f7fb2f6f13b694a8a2_2fd3d553_400" src="https://github.com/user-attachments/assets/f6051c51-14ce-4dbe-8fb5-d5b8814a02b2" />
+
 
 **Simonhenrikssons/Simonhenrikssons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
